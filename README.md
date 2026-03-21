@@ -74,4 +74,8 @@ Sinta-se à vontade para estudar, adaptar e melhorar este material.
 
 Autor
 
-Guilherme da Silva Rodrigues
+Guilherme da Silva
+
+Sobre:
+O código vai ter versão, em cada uma delas vou implemetendo novas coisas,
+vai começar da versão 0.0.1
